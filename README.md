@@ -18,8 +18,6 @@ Welcome to the Time Series Prediction Application, a web-based tool that utilize
 4. [Testing and Quality Assurance](#testing-and-quality-assurance)
 5. [User Guides](#user-guides)
 6. [Technical Documentation](#technical-documentation)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Introduction
 
@@ -52,5 +50,5 @@ For comprehensive user guides, including accessing the application, interface ov
 
 ## Technical Documentation
 
-For technical details, including prerequisites, installation steps, running the application, using the application, and troubleshooting, refer to the [Technical Guide](MCS23 FIT3162 User Guides.pdf).
+For technical details, including prerequisites, installation steps, running the application, using the application, and troubleshooting, refer to the [Technical Guide](User Guides.pdf).
 
